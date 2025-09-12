@@ -46,6 +46,10 @@
 - 即将发布的关键通胀与就业数据（影响期货对后续两次会议的定价）。
 - 市场流动性与准备金利差的变动：若 IORB–EFFR 异常扩大或收窄，可能改变短端资金交易与利率传导。
 
+<p>
+  <img src="https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png" width="48%">
+  <img src="https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png" width="48%" style="margin-left:1%">
+</p>
 
 
 | ![](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png) | 
