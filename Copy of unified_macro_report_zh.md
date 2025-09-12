@@ -1,3 +1,7 @@
+| ![图A](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png) | ![图B](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png) |
+|:--:|:--:|
+
+
 # 宏观经济研究报告
 *生成日期：2025-09-12*
 
@@ -45,6 +49,10 @@
 - 2025-09-17 FOMC 会议声明与点阵图，确认是否发布明确降息路径或沟通基准。 
 - 即将发布的关键通胀与就业数据（影响期货对后续两次会议的定价）。
 - 市场流动性与准备金利差的变动：若 IORB–EFFR 异常扩大或收窄，可能改变短端资金交易与利率传导。
+
+| ![图A](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png) | ![图B](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png) |
+|:--:|:--:|
+
 
 <p>
   <img src="https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png" width="48%">
