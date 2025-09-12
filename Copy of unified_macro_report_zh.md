@@ -54,6 +54,10 @@
 
 ---
 
+| ![图A]([https://placehold.co/300x180?text=A](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_probs_20250912.png)) | ![图B]([https://placehold.co/300x180?text=B](https://sp_report.gc.rrrr.run/unified_macro_report/20250912/charts/policy_fedwatch_path_20250912.png)) |
+|:--:|:--:|
+
+
 ### II. Employment
 底线：截至2025-09-12，就业市场尚未显示出典型的衰退信号，但增长动能放缓且初请失业金略有抬升，需继续观察短期趋势是否延续。
 
